@@ -1,4 +1,4 @@
-### 🧑‍💻 { Hola, mi nombre es Cristian Silva }👋
+### 🧑‍💻 < Hola, mi nombre es Cristian Silva >👋
 
 <!--
 **silcoro/silcoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 -->
-Freelancer Full Stack developer.
+🔹Freelancer Full Stack developer.
 <br/>
 <div align="center"><img  src="./imagenes/gato1.gif" width="120"/></div>
 
 <br/>
-¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
+🔹¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un   gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
 
 ### How to reach me 📫:
    <p>
@@ -29,7 +29,7 @@ Freelancer Full Stack developer.
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas LinkedIn Profile" height="40" width="40">
       </a> 
    
-## Habilidades:
+## Skills:
 <h4>Programming languages | Frameworks | Libraries | Database</h4>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">

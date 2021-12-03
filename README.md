@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--https://img.shields.io/endpoint?url=<URL>&style<STYLE>-->
 Freelancer Full Stack developer.
 <br/>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?url=www.google.com&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?url=<www.google.com>&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 
 
 

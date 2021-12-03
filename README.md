@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 Freelancer Full Stack developer.
 
-
+<br/>
+📫 ¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
 
 
 ## Habilidades:
@@ -41,10 +42,11 @@ Freelancer Full Stack developer.
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
   <img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-52B0E7.svg?logo=Sequelize&logoColor=white">
   <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
-  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748.svg?logo=Mocha&logoColor=white">
   <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701.svg?logo=Chai&logoColor=white">  <br />
+  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+  <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-777BB4.svg?logo=laravel&logoColor=white">
 </p>)
 
 <h4> Cloud Hosting | Other tools </h4> 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🧑‍💻 { Hola, mi nombre es Cristian Silva }👋
 
 <!--
 **silcoro/silcoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Freelancer Full Stack developer.
+
+
+
+
+## Habilidades:
+
+[![JavaScript](https://img.shields.io/badge/JavaScript=F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+

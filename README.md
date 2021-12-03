@@ -19,9 +19,14 @@ Here are some ideas to get you started:
 Freelancer Full Stack developer.
 
 <br/>
-📫 ¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
+¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
 
-
+### How to reach me 📫:
+   <p>
+      <a href="https://www.linkedin.com/in/cristian-silva-coronado/">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas LinkedIn Profile" height="40" width="40">
+      </a> 
+   
 ## Habilidades:
 <h4>Programming languages | Frameworks | Libraries | Database</h4>
 <p>
@@ -47,7 +52,7 @@ Freelancer Full Stack developer.
   <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701.svg?logo=Chai&logoColor=white">  <br />
   <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
-</p>)
+</p>
 
 <h4> Other tools </h4> 
 <p>

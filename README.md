@@ -15,11 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Freelancer Full Stack developer.
-
+<br/>
+[![https://www.linkedin.com/in/cristian-silva-coronado/](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)]()
 
 
 
 ## Habilidades:
+[![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+<br/>
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+<br/>
+[![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+<br/>
+[![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)]()
+<br/>
+[![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
-[![JavaScript](https://img.shields.io/badge/JavaScript=F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 

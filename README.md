@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 🔹Freelancer Full Stack developer.
 <br/>
-<div align="center"><img  src="./imagenes/fullstackdev.png" width="520" height="120"/></div>
+<div align="center"><img  src="./imagenes/3.png" width="720" height="150"/></div>
 
 <br/>
 🔹¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un   gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.

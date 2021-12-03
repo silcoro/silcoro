@@ -46,7 +46,7 @@ Freelancer Full Stack developer.
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748.svg?logo=Mocha&logoColor=white">
   <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701.svg?logo=Chai&logoColor=white">  <br />
   <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-  <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
+  <!-- <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"> -->
 </p>)
 
 <h4> Cloud Hosting | Other tools </h4> 

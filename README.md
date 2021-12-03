@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 -->
 Freelancer Full Stack developer.
+<br/>
 <img  src="./imagenes/gato.gif" width="120"/>
 <br/>
 ¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.

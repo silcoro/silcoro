@@ -47,7 +47,7 @@ Freelancer Full Stack developer.
   <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701.svg?logo=Chai&logoColor=white">  <br />
 </p>)
 
-<h4> Cloud Hosting | Other tools </h4> 
+<h4> Other tools </h4> 
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">

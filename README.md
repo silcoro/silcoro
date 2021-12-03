@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Freelancer Full Stack developer.
 <br/>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-https://www.linkedin.com/in/cristian-silva-coronado/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?url=https://www.linkedin.com/in/cristian-silva-coronado/?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+
 
 
 ## Habilidades:

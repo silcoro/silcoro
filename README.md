@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center" ><img  src="./imagenes/4.png" style="borderRadius=5px;" width="750" height="180" /></div>
 
 <br/>
-🔹¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un   gran programador y poder crear aplicaciones interesantes y útiles. Empeze por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
+🔹¡Bienvenido a mi perfil! 😄 Soy un Full Stack Developer. Deseo en convertirme en un   gran programador y poder crear aplicaciones interesantes y útiles. Empecé por el soporte tecnologico y ahora finalmente la programación y el Desarrollo Web.
 
 ### How to reach me 📫:
    <p>

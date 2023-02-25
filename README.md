@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-
+-->
 🔹Freelancer Full Stack developer.
 <br/>
 
@@ -64,6 +64,6 @@ Here are some ideas to get you started:
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
 <br/>
--->
+
 <div align="center"><img  src="./imagenes/gato1.gif" width="120"/></div>
 

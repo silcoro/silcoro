@@ -1,4 +1,4 @@
-### 🧑‍💻 < Hola, mi nombre es Cristian Silva >👋
+### 🧑‍💻 < Hola, mi nombre es Cristian >👋
 
 <!--
 **silcoro/silcoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
